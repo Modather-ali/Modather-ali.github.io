@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "app.al_mosaaed",
+            "sha256_cert_fingerprints": [
+                "BC:0C:CD:8C:83:18:B3:94:E3:7A:8D:23:83:78:9B:7D:DD:D9:86:45:20:83:22:14:7F:CF:5B:AE:ED:69:02:28"
+            ]
+        }
+    }
+]
